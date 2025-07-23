@@ -21,4 +21,6 @@
 - [ ] This is not complete
 
 
-myVar = "Hello world"
+```js
+var myVar = "Hello World";
+```
